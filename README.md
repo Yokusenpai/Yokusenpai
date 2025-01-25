@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yokusenpai
+- 👋 Hi, I’m @Yoo
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Fullstack
 - 💞️ I’m looking to collaborate on Game jams
