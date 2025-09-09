@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Fullstack
 - 💞️ I’m looking to collaborate on Game jams
-- 📫 How to reach me - discord: @yokusenpai (except i change my username)
+- 📫 How to reach me - discord: @nyanukoy (except i change my username)
 - 😄 Pronouns: unknown
 - ⚡ Fun fact: Jellyfish can't swim at night
 
