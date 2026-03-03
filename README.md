@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @Yoo
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Fullstack
-- 💞️ I’m looking to collaborate on Game jams
-- 📫 How to reach me - discord: @nyanukoy (except i change my username)
-- 😄 Pronouns: unknown
-- ⚡ Fun fact: Jellyfish can't swim at night
+# Hi, I’m Yoku👋
 
-<!---
-Yokusenpai/Yokusenpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Aspiring Fullstack Developer  
+💻 Currently building projects with React, JavaScript, HTML & CSS  
+🎮 Interested in Game Development and interactive web experiences  
+
+---
+
+## 🔧 Tech Stack
+- JavaScript (ES6+)
+- React
+- Node.js
+- HTML5 & CSS3
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+## 📚 Currently
+- Building a Twitter clone to strengthen fullstack architecture
+- Improving problem-solving skills through C programming
+- Learning how UI decisions affect performance and user experience
+
+---
+
+## 🎯 Goals
+- Gain hands-on experience through internships
+- Contribute to real-world products
+- Grow into a strong fullstack engineer
+
+---
+
+## 📫 Contact
+Email: rahzorlaw@gmail.com
