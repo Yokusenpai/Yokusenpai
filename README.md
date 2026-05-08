@@ -7,7 +7,7 @@
 
 
 ## Tech Stack
-- JavaScript (ES6+)
+- JavaScript/Typescript (ES6+)
 - React
 - Node.js
 - HTML5 & CSS3
