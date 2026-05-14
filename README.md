@@ -21,7 +21,7 @@
 - Improving problem-solving skills through C programming
 - Learning how UI decisions affect performance and user experience
 - Learning Next.js
-
+- Improving my fullstack architecture confidence
 
 ##  Goals
 - Gain hands-on experience through internships
