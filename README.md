@@ -8,12 +8,13 @@
 
 ## Tech Stack
 - JavaScript/Typescript (ES6+)
+- Python
 - React
 - Node.js
 - HTML5 & CSS3
 - Tailwind CSS
 - Git & GitHub
-
+- Java
 
 
 ## Currently
