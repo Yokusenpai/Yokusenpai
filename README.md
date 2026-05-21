@@ -1,7 +1,7 @@
 # Hi, I’m Yoku :D
 
 - Aspiring Fullstack Developer  
-- Currently building projects with React, JavaScript, HTML & CSS  
+- Currently building projects with React, JavaScript, HTML & CSS  or Little Python projects!
 - Interested in Game Development and interactive web experiences!
 
 
